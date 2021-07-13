@@ -9,7 +9,15 @@ box-shadow: 0 15px 40px 1px rgba(0, 0, 0, 0.3);
 }
 
 .instagram-logo span {
-
+display: block;
+border: 15px solid #fff;
+width: 150px;
+height: 150px;
+border-radius: 55px;
+position: absolute;
+top : 50%;
+left : 50%;
+transform :translate(-50%, -50%);
 }
 
 .instagram-logo span : before {
