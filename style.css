@@ -20,11 +20,22 @@ left : 50%;
 transform :translate(-50%, -50%);
 }
 
-.instagram-logo span : before {
+.instagram-logo span:before {
+    content : "";
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border :15px solid #fff;
+    top :50%;
+    left :50%;
+    transform: translate(-50%, -50%);
+
 
 } 
 
-.instagram-logo span : after {
+.instagram-logo span:after {
+    
 
 }
 
