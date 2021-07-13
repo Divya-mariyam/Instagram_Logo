@@ -1,0 +1,22 @@
+.instagram-logo {
+position: relative;
+margin: 0 auto;
+width : 250px;
+height : 250px;
+border-radius: 55px;
+background : radial-gradient(circle at 30% 110%, #ffdb8b 0%, #ee653d 25%, #d42e81 50%, #a237b6 75%, #3e5fbc 100%);
+box-shadow: 0 15px 40px 1px rgba(0, 0, 0, 0.3);
+}
+
+.instagram-logo span {
+
+}
+
+.instagram-logo span : before {
+
+} 
+
+.instagram-logo span : after {
+
+}
+
