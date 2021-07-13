@@ -35,7 +35,14 @@ transform :translate(-50%, -50%);
 } 
 
 .instagram-logo span:after {
-    
+    content: "";
+    position:absolute;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #fff;
+    top: 16px;
+    right: 16px;
 
 }
 
